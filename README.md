@@ -17,7 +17,7 @@ Para utilizar este proyecto, necesitarás:
 Ejemplo
 Para saber a qué notas musicales representan cada símbolo:
 
-DO: 1 (mostrando dedo índice)
+DO: 1 (mostrando dedo índice) 
 RE: 2 (mostrando los dedos índice y corazón)
 MI: 3 (mostrando los dedos índice, corazón y anular)
 FA: 4 (mostraremos los dedos índice, corazón, anular y meñique)
