@@ -23,7 +23,7 @@ Para utilizar este proyecto, necesitarás:
 - Haz clic en el botón "Iniciar" para comenzar a detectar símbolos.
 - Colocate frente a la cámara para que pueda detectar los símbolos que hagas.
 
-Ejemplo
+Ejemplo:
 Para saber a qué notas musicales representan cada símbolo:
 
 DO:   1 (mostrando dedo índice) 
