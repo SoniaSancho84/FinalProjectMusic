@@ -8,10 +8,10 @@ El proyecto utiliza el flujo de trabajo de detección de objetos de MediaPipe pa
 El proyecto está escrito en Python y utiliza las siguientes bibliotecas:
 
 - mediapipe --> 0.9.0.1 
-- opencv .......... 4.7.0.68
-- numpy ........... 1.24.1
-- pandas .......... 1.5.2
-- streamlit ....... 1.16.0
+- opencv -----> 4.7.0.68
+- numpy ------> 1.24.1
+- pandas -----> 1.5.2
+- streamlit --> 1.16.0
 
 
 ### ¿Cómo usar?
@@ -26,14 +26,14 @@ Para utilizar este proyecto, necesitarás:
 Ejemplo:
 Para saber a qué notas musicales representan cada símbolo:
 
-- DO--> 1 (mostrando dedo índice) 
-- RE:   2 (mostrando los dedos índice y corazón)
-- MI:   3 (mostrando los dedos índice, corazón y anular)
-- FA:   4 (mostraremos los dedos índice, corazón, anular y meñique)
-- SOL:  5 (mostraremos los 5 dedos)
-- LA:   1 (mostraremos el dedo pulgar)
-- SI:   2 (mostraremos los dedos pulgar e índice)
-- DODO: 3 (mostraremos los dedos pulgar, índice y corazón)
+- DO --> 1 (mostrando dedo índice) 
+- RE -->  2 (mostrando los dedos índice y corazón)
+- MI --> 3 (mostrando los dedos índice, corazón y anular)
+- FA --> 4 (mostraremos los dedos índice, corazón, anular y meñique)
+- SOL -> 5 (mostraremos los 5 dedos)
+- LA --> 1 (mostraremos el dedo pulgar)
+- SI --> 2 (mostraremos los dedos pulgar e índice)
+- DODO-> 3 (mostraremos los dedos pulgar, índice y corazón)
 
 Recursos adicionales
 Para obtener más información sobre cómo usar MediaPipe y PureData, consulta la siguiente documentación:
